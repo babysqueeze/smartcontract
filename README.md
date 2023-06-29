@@ -1,2 +1,3 @@
-# smartcontract
-Baby Squeeze Smartcontract
+# Smart contract
+
+This is the Baby Squeeze smart contract
